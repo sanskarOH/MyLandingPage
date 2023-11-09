@@ -67,7 +67,8 @@ button {
 
 button:hover {
     border-color: #000000;
-    background: #f7f7f7;
+    background-color:#00a8a9;
+    
 }
 
 section {
@@ -126,7 +127,8 @@ p{
 }
 .btn:hover {
     border-color: #000000;
-    background: #f7f7f7;
+    border-color: #000000;
+    background-color:#00a8a9;
 }
 .image-container{
         position: relative;
